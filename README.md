@@ -4,8 +4,10 @@
 
 ## 桃李回家的路
 
-最新下载地址：https://github.com/daohang2020/taoli/releases
-（在此可以找到最新可用的下载地址）
+最新下载地址：https://github.com/daohang2020/taoli/blob/master/apk/app-release.apk    
+（点击Download开始下载）
+
+
 
 ## 商业合作
   
