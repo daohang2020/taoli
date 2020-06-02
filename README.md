@@ -1,6 +1,6 @@
-![image1](images/61591082307_.pic.jpg =480x)
-![image2](images/51591082306_.pic.jpg =480x)
-![image3](images/31591082304_.pic.jpg =480x)
+![image1](images/61591082307_.pic.jpg){:width="480px"}
+![image2](images/51591082306_.pic.jpg){:width="480px"}
+![image3](images/31591082304_.pic.jpg){:width="480px"}
 
 # 桃李回家的路
 
