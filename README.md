@@ -1,6 +1,6 @@
-<img src="images/61591082307_.pic.jpg)" width = "231" height = "480" alt="" align=left />
-<img src="images/51591082306_.pic.jpg)" width = "231" height = "480" alt="" align=center />
-<img src="images/31591082304_.pic.jpg)" width = "231" height = "480" alt="" align=right />
+![image1](images/61591082307_.pic.jpg =480x)
+![image2](images/51591082306_.pic.jpg =480x)
+![image3](images/31591082304_.pic.jpg =480x)
 
 # 桃李回家的路
 
