@@ -1,6 +1,6 @@
 # 桃李市场，一个有趣的APP
 
-![image1](images/screenshot.jpg)
+![image1](https://bitbucket.org/daohang2020/daohang2020/downloads/screenshot.jpg)
 
 ## 桃李回家的路
 
