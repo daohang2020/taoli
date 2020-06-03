@@ -6,7 +6,7 @@
 
 最新下载地址：https://wws.lanzous.com/iXpG4dalt7a       
 
-备用下载地址：https://github.com/daohang2020/taoli/blob/master/apk/app-release.apk      
+备用下载地址：https://github.com/daohang2020/taoli/blob/master/apk/taoli-market-v5.0.0.apk      
 （点击Download开始下载）
 
 
