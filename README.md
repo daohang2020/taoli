@@ -1,3 +1,6 @@
+[ENGLISH README](README-en.md)
+
+
 # 桃李市场，一个属于成人世界的应用市场
 
 ![image1](https://bitbucket.org/daohang2020/daohang2020/downloads/screenshot.jpg)
