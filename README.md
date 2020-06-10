@@ -4,7 +4,7 @@
 
 # 桃李市场，一个属于成人世界的应用市场
 
-![image1](https://bitbucket.org/daohang2020/daohang2020/downloads/screenshot.jpg)
+![image1](http://i1.fuimg.com/720961/ebabde306d04e7fc.jpg)
 
 ## 桃李回家的路
 
